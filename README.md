@@ -58,21 +58,3 @@
 
 </div>
 
----
-
-### 📂 Featured Projects
-
-| Project | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **🧠 Hemisphre-AI** | Full-stack **RAG & MCP-based** Document Q&A Agent. Features voice interaction and semantic search strategy combining LangChain and SerpAPI. | `React` `Node.js` `LangChain` `GPT-5` `RAG` |
-| **🍔 OnlineOrder** | A robust food ordering platform handling menu search, cart management, and checkout. Deployed on **AWS** with containerized scalability. | `Spring Boot` `React` `PostgreSQL` `AWS (RDS, ECR)` |
-| **🤖 SocialAI** | An AI-powered social network allowing users to generate posts using **Dall-E 3**. Features token-based auth and full-text search. | `React` `Go` `Google App Engine` `ElasticSearch` `OpenAI API` |
-| **🎵 MiniSpotify** | A native Android music streaming app featuring background playback, local caching, and modern **MVVM** architecture. | `Kotlin` `Jetpack Compose` `Room DB` `Exoplayer` |
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
